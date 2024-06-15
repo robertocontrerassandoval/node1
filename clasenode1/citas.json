@@ -1,0 +1,16 @@
+[
+  {
+    "id": "58",
+    "Nombre_Animal": "Jack",
+    "Tipo_de_Animal": "Perro",
+    "Color_del_Animal": "Cafe",
+    "Enfermedad": "Otitis"
+  },
+  {
+    "id": "52",
+    "Nombre_Animal": "Rex",
+    "Tipo_de_Animal": "Perro",
+    "Color_del_Animal": "negro",
+    "Enfermedad": "colitis"
+  }
+]
